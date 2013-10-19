@@ -1,11 +1,11 @@
 {
-  "name": "bootstrap-theme-themestrap-sample",
+  "name": "bootstrap-theme-mcgowan",
   "version": "0.0.1",
   "private": true,
   "author": "Your Name",
   "main": "dist/bootstrap.css",
   "themestrap": {
-    "name": "Themestrap Sample",
+    "name": "McGowan",
     "repo": "https://github.com/divshot/themestrap"
   },
   "ignore": [
@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap":"3.0.0"
+    "bootstrap": "3.0.0"
   }
 }
