@@ -2,7 +2,7 @@
   "name": "bootstrap-theme-mcgowan",
   "version": "0.0.1",
   "private": true,
-  "author": "Your Name",
+  "author": "Andrew McGowan",
   "main": "dist/bootstrap.css",
   "themestrap": {
     "name": "McGowan",
